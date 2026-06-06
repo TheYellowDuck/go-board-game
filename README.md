@@ -4,6 +4,8 @@ A fully playable 19×19 Go board game built in Java using the [Processing](https
 
 ![logo](logo.png)
 
+https://github.com/user-attachments/assets/b50b9cbb-6e3c-4c03-96b8-1c9e5ed455c8
+
 ## Overview
 
 This project implements the ancient strategy game of Go as a standalone desktop application. It enforces Chinese ruleset scoring, handles all edge-case game logic (ko, suicide, group capture), and renders smooth 3D-style stones with real-time hover feedback — built on top of Processing's Java2D rendering pipeline.
